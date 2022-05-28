@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/dashboard/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/core/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/core/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/network/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/network/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/network/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/network/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/network/build" />
+      <excludeFolder url="file://$MODULE_DIR$/network/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
